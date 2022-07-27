@@ -111,7 +111,7 @@ class _HomePageState extends State<HomePage> {
                 Center(
                   child: FlatButton(
                     height: 2.0,
-                    minWidth: 4.0,
+                    minWidth: 2.0,
                     onPressed: () {
                       initCam();
                     },
