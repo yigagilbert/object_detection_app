@@ -3,4 +3,6 @@ my object detection app
 
 the model inthis app is enable to recognize object and it tells you its confidence percentage.
 
-C:\Users\user\Pictures\Saved Pictures
+Sample Pictures
+
+![Uploading Screenshot_20220727-102302.png…]()
